@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tait Algayer"
+title                    : "Tait Algayer test"
 title_separator          : "-"
 name                     : &name "Tait Algayer"
 description              : &description "Marine Geneticist"
